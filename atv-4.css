@@ -1,0 +1,13 @@
+body {
+  background-color: aliceblue;
+}
+div .div-2,
+.div-3,
+.div-4 {
+  display: flex;
+  border-radius: 8px;
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  background-color: hsl(300, 43%, 22%);
+}
