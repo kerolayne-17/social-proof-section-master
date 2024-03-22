@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("images/bg-pattern-bottom-mobile.svg");
+  font-family: "League+Spartan#:~:text=font_download-,Fonts,-language",
+    sans-serif;
+  font-size: 15px;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  flex-wrap: wrap;
+}
+.top h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+.top p {
+  font-size: 0.9rem;
+}
+.customer-rating {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f7f2f8;
+  padding: 0.538rem 0.125rem;
+  margin-bottom: 0.538rem;
+  font-size: 0.738rem;
+  align-items: center;
+}
+.rating-img {
+  margin-right: 1rem;
+}
+.rating-2nd {
+  margin-left: 1rem;
+}
+.rating-3rd {
+  margin-left: 1rem;
+}
+.button-ratings {
+  margin-top: 50px;
+}
+.rating-cards {
+  width: 300px;
+  height: 150px;
+  background-color: #511f50;
+  margin-right: 1rem;
+  padding: 20px 15px;
+  border-radius: 8px;
+  margin: 15px;
+}
+.profile {
+  color: #f7f2f8;
+  display: flex;
+  align-items: center;
+}
+.rating-card {
+  display: flex;
+}
+.profile-img img {
+  width: 50px;
+  height: auto;
+  border-radius: 50%;
+  margin-right: 1rem;
+}
+.profile-dentail h3 {
+  font-size: 1rem;
+  color: #f7f2f8;
+  margin-bottom: 3px;
+}
+.profile-dentail h5 {
+  font-size: 0.8rem;
+  color: rgb(206, 103, 137);
+}
+.review p {
+  font-size: 0.9rem;
+  color: #f7f2f8;
+  margin-top: 10px;
+  font-weight: 500px;
+  line-height: 1.1rem;
+  text-align: center;
+}
+.mt-2 {
+  margin-top: 2rem;
+}
+.mt-3 {
+  margin-top: 3rem;
+}
+.button-ratings {
+  display: flex;
+}
