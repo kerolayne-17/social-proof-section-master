@@ -96,3 +96,16 @@ h1 {
 .div-7 {
   margin-top: 30px;
 }
+@media {
+  .div-2,
+  .box-1{
+    width: 80%;
+    flex-direction: column;
+  }
+ .sub-container{
+  margin: 20px;
+  flex-direction: column;
+  align-items: center;
+ }
+  }
+}
